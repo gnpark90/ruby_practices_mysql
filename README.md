@@ -1,0 +1,2 @@
+# ruby_practices_mysql
+ruby_practices_with_mysql
