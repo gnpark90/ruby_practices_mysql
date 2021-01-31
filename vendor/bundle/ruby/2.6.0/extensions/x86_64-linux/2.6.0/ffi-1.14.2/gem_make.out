@@ -1,5 +1,5 @@
 current directory: /Users/park/Documents/project/ruby_practices_mysql/vendor/bundle/ruby/2.6.0/gems/ffi-1.14.2/ext/ffi_c
-/usr/local/bin/ruby -I /usr/local/lib/ruby/2.6.0 -r ./siteconf20210117-1-pkf1y2.rb extconf.rb
+/usr/local/bin/ruby -I /usr/local/lib/ruby/2.6.0 -r ./siteconf20210131-1-1oyn2eq.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -39,4 +39,4 @@ linking shared-object ffi_c.so
 
 current directory: /Users/park/Documents/project/ruby_practices_mysql/vendor/bundle/ruby/2.6.0/gems/ffi-1.14.2/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20210117-1-7d4oos
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20210131-1-1nvlaby

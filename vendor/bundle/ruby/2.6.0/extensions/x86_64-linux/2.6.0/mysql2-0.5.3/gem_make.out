@@ -1,5 +1,5 @@
 current directory: /Users/park/Documents/project/ruby_practices_mysql/vendor/bundle/ruby/2.6.0/gems/mysql2-0.5.3/ext/mysql2
-/usr/local/bin/ruby -I /usr/local/lib/ruby/2.6.0 -r ./siteconf20210117-1-16ulz07.rb extconf.rb
+/usr/local/bin/ruby -I /usr/local/lib/ruby/2.6.0 -r ./siteconf20210131-1-uillzy.rb extconf.rb
 checking for rb_absint_size()... yes
 checking for rb_absint_singlebit_p()... yes
 checking for rb_wait_for_single_fd()... yes
@@ -38,4 +38,4 @@ linking shared-object mysql2/mysql2.so
 
 current directory: /Users/park/Documents/project/ruby_practices_mysql/vendor/bundle/ruby/2.6.0/gems/mysql2-0.5.3/ext/mysql2
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 mysql2.so ./.gem.20210117-1-1wqe0qj/mysql2
+/usr/bin/install -c -m 0755 mysql2.so ./.gem.20210131-1-kmgb2i/mysql2

@@ -1,5 +1,5 @@
 current directory: /Users/park/Documents/project/ruby_practices_mysql/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
-/usr/local/bin/ruby -I /usr/local/lib/ruby/2.6.0 -r ./siteconf20210117-1-uinp4.rb extconf.rb
+/usr/local/bin/ruby -I /usr/local/lib/ruby/2.6.0 -r ./siteconf20210131-1-7a91wf.rb extconf.rb
 creating Makefile
 
 current directory: /Users/park/Documents/project/ruby_practices_mysql/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /Users/park/Documents/project/ruby_practices_mysql/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20210117-1-16uw19g/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20210131-1-1u1irsi/sassc
